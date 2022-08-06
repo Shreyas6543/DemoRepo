@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.buttonsClass{
+  background-color: #7e87ad;
+  border-radius: 2px;
+  margin:1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:10px 0;
+}
